@@ -11,4 +11,6 @@
     \nJohn is a team player and enjoys collaborating with other developers and stakeholders to ensure that projects are delivered on time and to the highest standard.
         \nIn his spare time, he enjoys playing basketball and hiking in the mountains.
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
