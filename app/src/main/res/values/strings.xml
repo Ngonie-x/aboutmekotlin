@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Ngonidzashe</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi my name is Ngonidzashe.
+    \nJohn is a software developer with over 5 years of experience in developing web applications.
+        \nHe has a bachelor\'s degree in Computer Science from the University of California, Los Angeles.
+        \nJohn is passionate about creating clean and efficient code and enjoys working on projects that challenge him.
+    \nDuring his career, John has worked on a variety of projects, ranging from small startups to large enterprise-level applications.
+        \nHe is skilled in using technologies such as Node.js, React, and MongoDB, and is always eager to learn new technologies.
+    \nJohn is a team player and enjoys collaborating with other developers and stakeholders to ensure that projects are delivered on time and to the highest standard.
+        \nIn his spare time, he enjoys playing basketball and hiking in the mountains.
+    </string>
 </resources>
